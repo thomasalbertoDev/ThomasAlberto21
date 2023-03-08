@@ -1,5 +1,4 @@
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)](https://ThomasAlberto21)
-[![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)](https://ThomasAlberto21)
 <h1 align="center">Hi 👋, I'm Thomas Alberto</h1>
 <h3 align="center">Front-end Web Developer From Indonesia</h3>
 
