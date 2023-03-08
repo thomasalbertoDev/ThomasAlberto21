@@ -1,4 +1,5 @@
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)](https://ThomasAlberto21)
+[![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)](https://ThomasAlberto21)
 <h1 align="center">Hi 👋, I'm Thomas Alberto</h1>
 <h3 align="center">Front-end Web Developer From Indonesia</h3>
 
@@ -30,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasalberto21&show_icons=true&locale=en" alt="thomasalberto21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasalberto21&" alt="thomasalberto21" /></p>
+
 
