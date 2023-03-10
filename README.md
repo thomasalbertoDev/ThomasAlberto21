@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React JS , MySQL , Bootstrap**
 
-- 📫 How to reach me **thomasalberto456@gmail.com**
+- 📫 How to reach me **tomasalberto527@gmail.com**
 
 - 📄 Know about my experiences [https://www.cakeresume.com/thomas-alberto-05ed3b](https://www.cakeresume.com/thomas-alberto-05ed3b)
 
