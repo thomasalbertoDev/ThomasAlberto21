@@ -1,6 +1,7 @@
-[![MasterHead](https://wallpaperaccess.com/full/2640957.jpg)](https://ThomasAlberto21)
 <h1 align="center">Hi 👋, I'm Thomas Alberto</h1>
 <h3 align="center">Front-end Web Developer From Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalberto21&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalberto21" /> </p>
 
 - 🌱 I’m currently learning **Vue JS , React JS , PHP , Jest , Docker , Next JS , Nuxt JS ,Redux**
 
