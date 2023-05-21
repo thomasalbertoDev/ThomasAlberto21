@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalberto21&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalberto21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasalberto21" alt="thomasalberto21" /></a> </p>
-
 - 🌱 I’m currently learning **Vue JS , React JS , PHP , Jest , Docker , Next JS , Nuxt JS ,Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios](https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios)
