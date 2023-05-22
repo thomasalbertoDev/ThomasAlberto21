@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios](https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios)
 
-- 💬 Ask me about **React JS , Vue JS**
-
 - 📫 How to reach me **tomasalberto527@gmail.com**
 
 - 📄 Know about my experiences [https://www.cakeresume.com/thomas-alberto-05ed3b](https://www.cakeresume.com/thomas-alberto-05ed3b)
