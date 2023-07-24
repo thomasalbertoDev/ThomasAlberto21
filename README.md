@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalberto21&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalberto21" /> </p>
 
 
-- 🌱 I’m currently learning **Vue JS , React JS , PHP , Redux**
+- 🌱 I’m currently learning **VueJS , ReactJS , NodeJS , Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios](https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios)
 
