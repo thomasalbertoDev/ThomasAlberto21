@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalberto21&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalberto21" /> </p>
 
-- 🔭 I’m currently working on **Administrator Web , CSSD Web , Farmasi Web , Remunerasi Web for hospital Soedarso In Pontianak**
-
-- 🌱 I’m currently learning **Vue JS , React JS , Jest , Next JS , Nuxt JS , Redux , Node JS , Express JS**
+- 🌱 I’m currently learning **Express JS**
 
 - 👨‍💻 All of my projects are available at [https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios](https://www.cakeresume.com/thomas-alberto-05ed3b/portfolios)
 
