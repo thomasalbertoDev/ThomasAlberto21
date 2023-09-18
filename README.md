@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/thomas-alberto-05ed3b](https://www.cakeresume.com/thomas-alberto-05ed3b)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
