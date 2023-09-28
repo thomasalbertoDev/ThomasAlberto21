@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Alberto</h1>
-<h3 align="center">A Passionate Frontend Developer from Indonesia</h3>
+<h3 align="center">A Frontend Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalberto21&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalberto21" /> </p>
 
